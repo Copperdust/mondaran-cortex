@@ -1,0 +1,2 @@
+## TRAIT SETS
+Any collection of [[traits]] that belong to the same basic type is assumed to be part of a trait set. **The rule of thumb in Cortex Prime is that you may only add one trait from any given trait set to a dice pool without added cost**. If you want to include more, it costs a [[Plot Point]].
